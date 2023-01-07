@@ -1,0 +1,16 @@
+{
+    "name": "nhu/php",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "vendor/core",
+            "App\\": "app/Http/Controllers"
+        }
+    },
+    "authors": [
+        {
+            "name": "oxi",
+            "email": "nhunhu19071998@gmail.com"
+        }
+    ],
+    "require": {}
+}
